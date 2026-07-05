@@ -3,10 +3,10 @@
 Welcome to my profile — nice to see you here!
 
 ## About Me:
-I'm a 16-year-old programmer who loves embedded systems, game development,  
+I'm a 17-year-old programmer who loves embedded systems, game development,  
 graphical programming, hardware, and a lot of low-level stuff.  
 
-I started programming around 5 years ago, when I was 11, creating simple  
+I started programming around 6 years ago, when I was 11, creating simple  
 Roblox and Scratch games for fun — and here I am now.  
 
 ## Tech Stack
@@ -23,15 +23,15 @@ Roblox and Scratch games for fun — and here I am now.
 |:----:|:-----:|:--------:|
 | [**Fireset - 2D Game Engine**](https://github.com/saintsHr/Fireset) | ![GitHub Stars](https://img.shields.io/github/stars/saintsHr/Fireset?style=flat-square&label=%E2%AD%90%EF%B8%8F&color=%23f0c013) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 | [**Granite - 3D Game Engine**](https://github.com/saintsHr/Granite) | ![GitHub Stars](https://img.shields.io/github/stars/saintsHr/Granite?style=flat-square&label=%E2%AD%90%EF%B8%8F&color=%23f0c013) | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-| [**Wireframe - Terminal Renderer**](https://github.com/saintsHr/Wireframe) | ![GitHub Stars](https://img.shields.io/github/stars/saintsHr/Wireframe?style=flat-square&label=%E2%AD%90%EF%B8%8F&color=%23f0c013) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-| [**RebirthOS - Hobby OS**](https://github.com/saintsHr/RebirthOS) | ![GitHub Stars](https://img.shields.io/github/stars/saintsHr/RebirthOS?style=flat-square&label=%E2%AD%90%EF%B8%8F&color=%23f0c013) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) ![Assembly](https://img.shields.io/badge/Assembly-000000?logo=assemblyscript&logoColor=white&style=for-the-badge)
+| [**Sulfur - Programming Language**](https://github.com/saintsHr/Sulfur) | ![GitHub Stars](https://img.shields.io/github/stars/saintsHr/Sulfur?style=flat-square&label=%E2%AD%90%EF%B8%8F&color=%23f0c013) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+| [**Dusk - Hobby Kernel**](https://github.com/saintsHr/Dusk) | ![GitHub Stars](https://img.shields.io/github/stars/saintsHr/Dusk?style=flat-square&label=%E2%AD%90%EF%B8%8F&color=%23f0c013) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) ![Assembly](https://img.shields.io/badge/Assembly-000000?logo=assemblyscript&logoColor=white&style=for-the-badge)
 
 ## Currently focusing on:
-- Game engine architecture
-- Low-level graphics (OpenGL)
 - Operating system development
 - Firmware & Electronics
 - API Design
+- Compilers
+- Mathematics
 
 ---
 
